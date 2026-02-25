@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Cosmic Wonderful Tour!",
+  "base_artist": "雪花ラミィ、桃鈴ねね、獅白ぼたん、尾丸ポルカ",
+  "createdAt": "2026-02-25T03:57:20.147064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cosmic Wonderful Tour!",
+      "artist": "雪花ラミィ feat. 桃鈴ねね, 獅白ぼたん, 尾丸ポルカ & hololive 5th Generation",
+      "has_synced": true,
+      "path": "select/01_Cosmic_Wonderful_Tour!_雪花ラミィ_feat._桃鈴ねね,_獅白ぼたん,_尾丸ポルカ_&_hololive_5th_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cosmic Wonderful Tour!",
+      "artist": "雪花ラミィ, 桃鈴ねね, 獅白ぼたん & 尾丸ポルカ",
+      "has_synced": true,
+      "path": "select/02_Cosmic_Wonderful_Tour!_雪花ラミィ,_桃鈴ねね,_獅白ぼたん_&_尾丸ポルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cosmic Wonderful Tour!",
+      "artist": "雪花ラミィ、桃鈴ねね、獅白ぼたん、尾丸ポルカ",
+      "has_synced": true,
+      "path": "select/03_Cosmic_Wonderful_Tour!_雪花ラミィ、桃鈴ねね、獅白ぼたん、尾丸ポルカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cosmic Wonderful Tour!",
+      "artist": "hololive 5th Generation",
+      "has_synced": true,
+      "path": "select/04_Cosmic_Wonderful_Tour!_hololive_5th_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cosmic Wonderful Tour!",
+      "artist": "雪花ラミィ、桃鈴ねね、獅白ぼたん、尾丸ポルカ",
+      "has_synced": false,
+      "path": "select/pl_01_Cosmic_Wonderful_Tour!_雪花ラミィ、桃鈴ねね、獅白ぼたん、尾丸ポルカ.txt"
+    }
+  ]
+}
